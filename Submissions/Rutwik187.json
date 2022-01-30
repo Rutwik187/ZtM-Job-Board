@@ -1,0 +1,16 @@
+{
+    "name": "Rutwik Shinde",
+    "img": "https://imgur.com/gallery/g5CYG8c",
+    "email": "rutwikshinde34@gmail.com",
+    "links": {
+      "website": "https://rutwiks-portfolio.netlify.app/",
+      "linkedin": "https://www.linkedin.com/in/rutwik-shinde1/",
+      "github": "https://github.com/Rutwik187>"
+    },
+    "jobTitle": "MERN Developer",
+    "location": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India"
+    }
+  }
